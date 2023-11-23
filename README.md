@@ -36,6 +36,6 @@ Site - NeoxScans.net
 
 5. Flexibilidade e eficiência de uso
 
-   ![Imagem do erro da heurística 5](/imagens/FaltaDeCarregamentoVisual.png)
+   ![Imagem do erro da heurística 5](/imagens/Flexibilidade.png)
 
    O site oferece uma experiência excepcionalmente acessível para todos os tipos de usuários. Não é necessário estar logado para ler as séries, e há diversos indicadores de novos lançamentos, juntamente com uma aba dos mais lidos da semana. O login é reservado exclusivamente para salvar o progresso na leitura.
